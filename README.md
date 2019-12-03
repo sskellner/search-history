@@ -22,7 +22,7 @@ All code is written by me, using p5.js
 The original 'Concordance' refers a demo by [Daniel Shiffman](https://shiffman.github.io/A2Z-F17/week5-analysis/01_concordance/). I kept the class name (in concordance.js) but fully customized the code inside to look for keywords. 
 
 # Deliverables
-**Process Slides:** https://docs.google.com/presentation/d/1E8X4fF7BjpvGVBijRjpLEa_bGxXAW-OjSIJiDUoUNNA/edit?usp=sharing
-**Code:** 'datavis' folder in this repo
-**Working visualization:** https://distracted-hamilton-eb023d.netlify.com
-**Demo video:** https://vimeo.com/377110944
+- **Process Slides:** https://docs.google.com/presentation/d/1E8X4fF7BjpvGVBijRjpLEa_bGxXAW-OjSIJiDUoUNNA/edit?usp=sharing
+- **Code:** 'datavis' folder in this repo
+- **Working visualization:** https://distracted-hamilton-eb023d.netlify.com
+- **Demo video:** https://vimeo.com/377110944
