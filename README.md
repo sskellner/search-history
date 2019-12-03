@@ -5,7 +5,7 @@ final project for Data Visualization @ CMU, Fall 2019
 # important!
 This project uses a dataset with my personal Google search history. 
 For confidentiality purposes, I have not included the full dataset in this repo. 
-Instead, I am running the demo with the full dataset at https://awesome-almeida-cba728.netlify.com/
+Instead, I am running the demo with the full dataset at https://distracted-hamilton-eb023d.netlify.com
 
 I may take this netlify site down after the projet is graded. For this reason, I am including the deliverables (process slides, code, video, etc.) in this README below instead of on the netlify site. 
 
@@ -24,5 +24,5 @@ The original 'Concordance' refers a demo by [Daniel Shiffman](https://shiffman.g
 # Deliverables
 **Process Slides:** https://docs.google.com/presentation/d/1E8X4fF7BjpvGVBijRjpLEa_bGxXAW-OjSIJiDUoUNNA/edit?usp=sharing
 **Code:** 'datavis' folder in this repo
-**Working visualization:** https://awesome-almeida-cba728.netlify.com/
+**Working visualization:** https://distracted-hamilton-eb023d.netlify.com
 **Demo video:** https://vimeo.com/377110944
