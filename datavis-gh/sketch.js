@@ -190,7 +190,7 @@ function handleSearchInput() {
 
 // Customize this list to make your own "Feeling Lucky" options.
 // Could even use the entire dataset! Go crazy!
-feelingLucky = ['cambridge', 'lake tahoe', 'california', 'pittsburgh', 'jobs','new york', 'fun ', ' burlington '];
+feelingLucky = ['cambridge', 'lake tahoe', 'california', 'pittsburgh', 'jobs','new york', 'fun ', ' burlington ', 'does'];
 
 function handleLuckyInput() {
   let choice = int(random(feelingLucky.length));
