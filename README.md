@@ -7,7 +7,7 @@ This project uses a dataset with my personal Google search history.
 For confidentiality purposes, I have not included the full dataset in this repo. 
 Instead, I am running the demo with the full dataset at https://distracted-hamilton-eb023d.netlify.com
 
-I may take this netlify site down after the projet is graded. For this reason, I am including the deliverables (process slides, code, video, etc.) in this README below instead of on the netlify site. 
+I may take this netlify site down after the project is graded. For this reason, I am including the deliverables (process slides, code, video, etc.) in this README below instead of on the netlify site. 
 
 In this repo, the code includes a *censored* dataset that does not include any of the search text. In order to run the project on your own device, you will need to use your own dataset (or contact me!)
 
