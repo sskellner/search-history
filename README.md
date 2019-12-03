@@ -23,6 +23,6 @@ The original 'Concordance' refers a demo by [Daniel Shiffman](https://shiffman.g
 
 # Deliverables
 - **Process Slides:** https://docs.google.com/presentation/d/1E8X4fF7BjpvGVBijRjpLEa_bGxXAW-OjSIJiDUoUNNA/edit?usp=sharing
-- **Code:** 'datavis' folder in this repo
+- **Code:** 'datavis-gh' folder in this repo
 - **Working visualization:** https://distracted-hamilton-eb023d.netlify.com
 - **Demo video:** https://vimeo.com/377110944
