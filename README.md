@@ -5,7 +5,7 @@ final project for Data Visualization @ CMU, Fall 2019
 # important!
 This project uses a dataset with my personal Google search history. 
 For confidentiality purposes, I have not included the full dataset in this repo. 
-Instead, I am running the demo with the full dataset at https://distracted-hamilton-eb023d.netlify.com
+I originally ran the demo with the full dataset on Netlify. However (2020), I am no longer running that demo. 
 
 I may take this netlify site down after the project is graded. For this reason, I am including the deliverables (process slides, code, video, etc.) in this README below instead of on the netlify site. 
 
@@ -19,10 +19,10 @@ In this repo, the code includes a *censored* dataset that does not include any o
 
 # The code
 All code is written by me, using p5.js
-The original 'Concordance' refers a demo by [Daniel Shiffman](https://shiffman.github.io/A2Z-F17/week5-analysis/01_concordance/). I kept the class name (in concordance.js) but fully customized the code inside to look for keywords. 
+The original 'Concordance' refers to a demo by [Daniel Shiffman](https://shiffman.github.io/A2Z-F17/week5-analysis/01_concordance/). I kept the class name (in concordance.js) but fully customized the code inside to look for keywords. 
 
 # Deliverables
-- **Process Slides:** https://docs.google.com/presentation/d/1E8X4fF7BjpvGVBijRjpLEa_bGxXAW-OjSIJiDUoUNNA/edit?usp=sharing
+- [**Process Slides:**](https://www.notion.so/Storytelling-with-my-Data-824b5a20585243748639861cfba1deee#bcef5235f73241a2b9e86b2320bb8312)
 - **Code:** 'datavis-gh' folder in this repo
-- **Working visualization:** https://distracted-hamilton-eb023d.netlify.com
-- **Demo video:** https://vimeo.com/377110944
+- [**Working visualization:**](https://distracted-hamilton-eb023d.netlify.com) (inactive)
+- [**Demo video:**](https://vimeo.com/377110944)
